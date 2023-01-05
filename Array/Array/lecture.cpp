@@ -80,7 +80,7 @@ void erase_test(){
   printArr(arr, len);
 }
 
-int main(void) {
-  insert_test();
-  erase_test();
-}
+//int main(void) {
+//  insert_test();
+//  erase_test();
+//}
