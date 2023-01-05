@@ -30,19 +30,22 @@ void insert(int idx, int num, int arr[], int& len){
     len = len + 1;
 }
 
+void insert2(int idx, int num, int arr[], int& len){
+    
+    len++;
+    
+    for(int i = len; i > idx ; i--){
+        arr[i] = arr[i-1];
+    }
+    arr[idx] = num;
+}
+
 void erase(int idx, int arr[], int& len){
     
     int temp1;
     
-    if(len == idx){
-        arr[idx] = 0;
-        len = len - 1;
-        return ;
-    }
-    
     for(int i = idx; i < len ; i++){
-        temp1 = arr[i+1];
-        arr[i] = temp1;
+        arr[i] = arr[i+1];
     }
     len = len - 1;
 
@@ -57,11 +60,11 @@ void insert_test(){
   cout << "***** insert_test *****\n";
   int arr[10] = {10, 20, 30};
   int len = 3;
-  insert(3, 40, arr, len); // 10 20 30 40
+  insert2(3, 40, arr, len); // 10 20 30 40
   printArr(arr, len);
-  insert(1, 50, arr, len); // 10 50 20 30 40
+  insert2(1, 50, arr, len); // 10 50 20 30 40
   printArr(arr, len);
-  insert(0, 15, arr, len); // 15 10 50 20 30 40
+  insert2(0, 15, arr, len); // 15 10 50 20 30 40
   printArr(arr, len);
 }
 
