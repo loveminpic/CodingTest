@@ -42,8 +42,6 @@ void insert2(int idx, int num, int arr[], int& len){
 
 void erase(int idx, int arr[], int& len){
     
-    int temp1;
-    
     for(int i = idx; i < len ; i++){
         arr[i] = arr[i+1];
     }

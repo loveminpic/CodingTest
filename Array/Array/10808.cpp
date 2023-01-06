@@ -33,8 +33,8 @@ void solution (string s) {
     }
 }
 
-int main(void) {
-    string s;
-    cin >> s;
-    solution(s);
-}
+//int main(void) {
+//    string s;
+//    cin >> s;
+//    solution(s);
+//}
