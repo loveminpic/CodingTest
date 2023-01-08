@@ -71,9 +71,9 @@ void erase_test2(){
   traverse();
 }
 
-int main(void) {
-  fill(pre, pre+MX, -1);
-  fill(nxt, nxt+MX, -1);
-  insert_test2();
-  erase_test2();
-}
+//int main(void) {
+//  fill(pre, pre+MX, -1);
+//  fill(nxt, nxt+MX, -1);
+//  insert_test2();
+//  erase_test2();
+//}
