@@ -11,8 +11,7 @@
 // <는 왼쪽이동, > 오른쪽 이동, - 지우기
 using namespace std;
 
-int main(void){
-
+void solution2(){
     list<char> password;
     string str;
     std::list<char>::iterator it;
@@ -60,5 +59,9 @@ int main(void){
     for(auto &s : result){
         cout << s << "\n";
     }
-    return 0;
 }
+//int main(void){
+//    solution2();
+//
+//    return 0;
+//}
