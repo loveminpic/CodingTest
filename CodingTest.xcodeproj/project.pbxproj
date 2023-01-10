@@ -15,6 +15,7 @@
 		3DC008D1296A99CF00BE51BD /* 1046.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008D0296A99CF00BE51BD /* 1046.cpp */; };
 		3DC008D3296C38C500BE51BD /* 5397.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008D2296C38C500BE51BD /* 5397.cpp */; };
 		3DC008D6296D105D00BE51BD /* 10828.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008D5296D105D00BE51BD /* 10828.cpp */; };
+		3DC008D8296D274F00BE51BD /* 1874.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008D7296D274F00BE51BD /* 1874.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		3DC008D0296A99CF00BE51BD /* 1046.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1046.cpp; sourceTree = "<group>"; };
 		3DC008D2296C38C500BE51BD /* 5397.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5397.cpp; sourceTree = "<group>"; };
 		3DC008D5296D105D00BE51BD /* 10828.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10828.cpp; sourceTree = "<group>"; };
+		3DC008D7296D274F00BE51BD /* 1874.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1874.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				3DC008D5296D105D00BE51BD /* 10828.cpp */,
+				3DC008D7296D274F00BE51BD /* 1874.cpp */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DC008D8296D274F00BE51BD /* 1874.cpp in Sources */,
 				3DC008D1296A99CF00BE51BD /* 1046.cpp in Sources */,
 				3DC008D3296C38C500BE51BD /* 5397.cpp in Sources */,
 				3DC008C92967B2FD00BE51BD /* 2577.cpp in Sources */,

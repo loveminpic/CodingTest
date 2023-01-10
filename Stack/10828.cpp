@@ -10,8 +10,7 @@
 #include <stack>
 #include <vector>
 using namespace std;
-int main(void){
- 
+void stackFuction(){
     int len;
     cin >> len;
     
@@ -61,5 +60,9 @@ int main(void){
     for(auto &num : result){
         cout << num << "\n";
     }
-    
 }
+//int main(void){
+//    stackFuction();
+//   
+//    
+//}
