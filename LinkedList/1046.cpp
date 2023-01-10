@@ -37,38 +37,38 @@ void P(char x){
     li.insert(t,x);
 }
 
-int main(void){
-    
-    cin >> s;
-    cin >> command;
-    
-    for(auto &c : s){
-        li.push_back(c);
-    }
-    
-    t = li.end();
-    
-    string c ;
-    
-    for(int i = 0; i < command; i++){
-        char c;
-        cin >> c;
-        if(c == 'L'){
-            L();
-        }
-        else if(c == 'D'){
-            D();
-        }
-        else if(c == 'B'){
-            B();
-        }
-        else {
-            char m ;
-            cin >> m ;
-            P(m);
-        }
-    }
-    for(auto& m : li){
-        cout<< m;
-    }
-}
+//int main(void){
+//
+//    cin >> s;
+//    cin >> command;
+//
+//    for(auto &c : s){
+//        li.push_back(c);
+//    }
+//
+//    t = li.end();
+//
+//    string c ;
+//
+//    for(int i = 0; i < command; i++){
+//        char c;
+//        cin >> c;
+//        if(c == 'L'){
+//            L();
+//        }
+//        else if(c == 'D'){
+//            D();
+//        }
+//        else if(c == 'B'){
+//            B();
+//        }
+//        else {
+//            char m ;
+//            cin >> m ;
+//            P(m);
+//        }
+//    }
+//    for(auto& m : li){
+//        cout<< m;
+//    }
+//}
