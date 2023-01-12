@@ -57,6 +57,6 @@ void solution_1874(){
     
 }
 
-int main(void){
-    solution_1874();
-}
+//int main(void){
+//    solution_1874();
+//}
