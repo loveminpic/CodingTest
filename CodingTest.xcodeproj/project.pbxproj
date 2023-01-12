@@ -18,6 +18,7 @@
 		3DC008D8296D274F00BE51BD /* 1874.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008D7296D274F00BE51BD /* 1874.cpp */; };
 		3DC008DB296FC93400BE51BD /* queue_lecture.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008DA296FC93400BE51BD /* queue_lecture.cpp */; };
 		3DC008DD296FD10B00BE51BD /* 10845.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008DC296FD10B00BE51BD /* 10845.cpp */; };
+		3DC008DF296FEBDB00BE51BD /* 2146.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008DE296FEBDB00BE51BD /* 2146.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		3DC008D7296D274F00BE51BD /* 1874.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1874.cpp; sourceTree = "<group>"; };
 		3DC008DA296FC93400BE51BD /* queue_lecture.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = queue_lecture.cpp; sourceTree = "<group>"; };
 		3DC008DC296FD10B00BE51BD /* 10845.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10845.cpp; sourceTree = "<group>"; };
+		3DC008DE296FEBDB00BE51BD /* 2146.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2146.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 			children = (
 				3DC008DA296FC93400BE51BD /* queue_lecture.cpp */,
 				3DC008DC296FD10B00BE51BD /* 10845.cpp */,
+				3DC008DE296FEBDB00BE51BD /* 2146.cpp */,
 			);
 			path = Queue;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				3DC008D1296A99CF00BE51BD /* 1046.cpp in Sources */,
 				3DC008D3296C38C500BE51BD /* 5397.cpp in Sources */,
 				3DC008C92967B2FD00BE51BD /* 2577.cpp in Sources */,
+				3DC008DF296FEBDB00BE51BD /* 2146.cpp in Sources */,
 				3DC008CF296A8C8000BE51BD /*  lecture_linkedlist.cpp in Sources */,
 				3DC008C52966A33500BE51BD /* 10808.cpp in Sources */,
 				3DC008D6296D105D00BE51BD /* 10828.cpp in Sources */,

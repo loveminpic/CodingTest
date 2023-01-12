@@ -20,8 +20,7 @@
 #include <queue>
 using namespace std;
 
-
-int main(void){
+void s_10845(){
     int len;
     cin >> len;
     queue<int> qu;
@@ -76,4 +75,5 @@ int main(void){
         result.pop();
     }
 }
+
 
