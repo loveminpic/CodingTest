@@ -41,9 +41,9 @@ void solution_10799(){
     }
     cout << result;
 }
-int main (void){
-
-    solution_10799();
-    return 0;
-}
-
+//int main (void){
+//
+//    solution_10799();
+//    return 0;
+//}
+//

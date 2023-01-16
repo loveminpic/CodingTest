@@ -21,6 +21,7 @@
 		3DC008DF296FEBDB00BE51BD /* 2146.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008DE296FEBDB00BE51BD /* 2146.cpp */; };
 		3DC008E129712FF300BE51BD /* 4949.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008E029712FF200BE51BD /* 4949.cpp */; };
 		3DC008E32973D6B500BE51BD /* 10799.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008E22973D6B500BE51BD /* 10799.cpp */; };
+		3DC008E6297500AA00BE51BD /* 1926.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008E5297500AA00BE51BD /* 1926.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		3DC008DE296FEBDB00BE51BD /* 2146.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2146.cpp; sourceTree = "<group>"; };
 		3DC008E029712FF200BE51BD /* 4949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4949.cpp; sourceTree = "<group>"; };
 		3DC008E22973D6B500BE51BD /* 10799.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10799.cpp; sourceTree = "<group>"; };
+		3DC008E5297500AA00BE51BD /* 1926.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1926.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		3DC008B12966A2F100BE51BD = {
 			isa = PBXGroup;
 			children = (
+				3DC008E42975008F00BE51BD /* BFS */,
 				3DC008D9296FC8CF00BE51BD /* Queue */,
 				3DC008D4296D104600BE51BD /* Stack */,
 				3DC008CD296A8C6000BE51BD /* LinkedList */,
@@ -123,6 +126,14 @@
 				3DC008DE296FEBDB00BE51BD /* 2146.cpp */,
 			);
 			path = Queue;
+			sourceTree = "<group>";
+		};
+		3DC008E42975008F00BE51BD /* BFS */ = {
+			isa = PBXGroup;
+			children = (
+				3DC008E5297500AA00BE51BD /* 1926.cpp */,
+			);
+			path = BFS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,6 +202,7 @@
 				3DC008D3296C38C500BE51BD /* 5397.cpp in Sources */,
 				3DC008C92967B2FD00BE51BD /* 2577.cpp in Sources */,
 				3DC008DF296FEBDB00BE51BD /* 2146.cpp in Sources */,
+				3DC008E6297500AA00BE51BD /* 1926.cpp in Sources */,
 				3DC008CF296A8C8000BE51BD /*  lecture_linkedlist.cpp in Sources */,
 				3DC008C52966A33500BE51BD /* 10808.cpp in Sources */,
 				3DC008D6296D105D00BE51BD /* 10828.cpp in Sources */,
