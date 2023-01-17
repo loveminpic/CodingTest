@@ -14,7 +14,7 @@
 #include <queue>
 using namespace std;
 
-int main(void){
+void solution_2178(){
     // 배열의 크기 받고,
     int n,m;
     cin >> n >> m;
@@ -51,8 +51,11 @@ int main(void){
         }
     }
     cout << dist[n-1][m-1] + 1 ;
-    return 0;
 }
+//int main(void){
+//    solution_2178();
+//    return 0;
+//}
 
     
 
