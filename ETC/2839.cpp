@@ -44,13 +44,13 @@ int solution_2839(int sugar){
     return count_3 + count_5;
 }
 
-int main()
-{
-    int sugar;
-    
-    cin >> sugar;
-    
-    cout << solution_2839(sugar);
-    
-}
+//int main()
+//{
+//    int sugar;
+//
+//    cin >> sugar;
+//
+//    cout << solution_2839(sugar);
+//
+//}
 

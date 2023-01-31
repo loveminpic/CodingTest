@@ -12,6 +12,7 @@
 		3D138AF129791E1D004E163D /* 5427.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D138AF029791E1D004E163D /* 5427.cpp */; };
 		3D138AF329828FE4004E163D /* 2667.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D138AF229828FE4004E163D /* 2667.cpp */; };
 		3D138AF629876634004E163D /* 2839.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D138AF529876633004E163D /* 2839.cpp */; };
+		3D138AF829892A9D004E163D /* 2751.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D138AF729892A9D004E163D /* 2751.cpp */; };
 		3DC008C52966A33500BE51BD /* 10808.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008C42966A33500BE51BD /* 10808.cpp */; };
 		3DC008C72966A61900BE51BD /* lecture.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008C62966A61900BE51BD /* lecture.cpp */; };
 		3DC008C92967B2FD00BE51BD /* 2577.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3DC008C82967B2FD00BE51BD /* 2577.cpp */; };
@@ -49,6 +50,7 @@
 		3D138AF029791E1D004E163D /* 5427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5427.cpp; sourceTree = "<group>"; };
 		3D138AF229828FE4004E163D /* 2667.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2667.cpp; sourceTree = "<group>"; };
 		3D138AF529876633004E163D /* 2839.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2839.cpp; sourceTree = "<group>"; };
+		3D138AF729892A9D004E163D /* 2751.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2751.cpp; sourceTree = "<group>"; };
 		3DC008BA2966A2F100BE51BD /* Array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Array; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DC008C42966A33500BE51BD /* 10808.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10808.cpp; sourceTree = "<group>"; };
 		3DC008C62966A61900BE51BD /* lecture.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lecture.cpp; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				3D138AF529876633004E163D /* 2839.cpp */,
+				3D138AF729892A9D004E163D /* 2751.cpp */,
 			);
 			path = ETC;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				3DC008E6297500AA00BE51BD /* 1926.cpp in Sources */,
 				3DC008CF296A8C8000BE51BD /*  lecture_linkedlist.cpp in Sources */,
 				3D138AF129791E1D004E163D /* 5427.cpp in Sources */,
+				3D138AF829892A9D004E163D /* 2751.cpp in Sources */,
 				3D138AF329828FE4004E163D /* 2667.cpp in Sources */,
 				3DC008E829753A5700BE51BD /* 2178.cpp in Sources */,
 				3DC008C52966A33500BE51BD /* 10808.cpp in Sources */,
