@@ -31,8 +31,8 @@ void solution_9095(){
         cout << arr[temp] << "\n";
     }
 }
-
-int main(){
-    
-    solution_9095();
-}
+//
+//int main(){
+//
+//    solution_9095();
+//}
